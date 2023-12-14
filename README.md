@@ -2,7 +2,7 @@
 
 This git reposotory is build to automate the mesurements of Alfalf's LAI, with the use of [ImageJ](https://ij.imjoy.io/) web site.
 
-# Insallation
+# Insallation (Mac)
 
 The SupAgrBot is mainly build with the Python's [Selenium](https://www.selenium.dev/documentation/) package. So to use the script do the following:
 
@@ -19,11 +19,10 @@ conda create - n selenium
 ``` bash
 conda activate selenium
 ```
-
 -   **install requirements**:Install the needed packages.
 
 ``` bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 -   **Clone the repo**:The last step
