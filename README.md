@@ -77,6 +77,12 @@ python path_to_the_folder_where_you_want_to_clone/SupAgroBot/bot/run.py batch_1
 python path_to_the_folder_where_you_want_to_clone/SupAgroBot/bot/run.py batch_6
 ```
 
+-   **Concatenate the CSVs files** into just one folder:
+
+``` bash
+python path_to_the_folder_where_you_want_to_clone/SupAgroBot/bot/Supagro/Concatenate.py
+```
+
 -   **Concatenate the CSVs files** into just one:
 
 ``` bash
