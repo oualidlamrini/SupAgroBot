@@ -13,16 +13,17 @@ The SupAgrBot is mainly build with the Python's [Selenium](https://www.selenium.
 conda create - n selenium 
 ```
 
--   **install requirements**:Install the needed packages.
-
-``` bash
-pip install -r requirements.txt
-```
 
 -   **Activate the invironment**:Working with the installed packages of `requirements.txt`
 
 ``` bash
 conda activate selenium
+```
+
+-   **install requirements**:Install the needed packages.
+
+``` bash
+pip install -r requirements.txt
 ```
 
 -   **Clone the repo**:The last step
