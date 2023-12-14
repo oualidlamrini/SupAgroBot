@@ -14,7 +14,7 @@ conda create - n selenium
 ```
 
 
--   **Activate the invironment**:Working with the installed packages of `requirements.txt`
+-   **Activate the invironment**:Working with the environment
 
 ``` bash
 conda activate selenium
