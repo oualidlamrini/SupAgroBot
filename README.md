@@ -10,7 +10,7 @@ The SupAgrBot is mainly build with the Python's [Selenium](https://www.selenium.
 -   **Create an environment**: Open a terminale and type.
 
 ``` bash
-conda create - n selenium 
+conda create --name selenium --file equirements2.txt
 ```
 
 
@@ -22,7 +22,7 @@ conda activate selenium
 -   **install requirements**:Install the needed packages.
 
 ``` bash
-pip3 install -r requirements.txt
+pip3 install -r requirements1.txt
 ```
 
 -   **Clone the repo**:The last step
